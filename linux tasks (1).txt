@@ -1,0 +1,13 @@
+tasks:
+
+
+1. command to get cpu info using cat command (cat /proc/cpuinfo)
+2. understand the linux file directory system (cd /)(df -h-memory usage)(du -sh *)(ll bin/)(ll /etc/ -configuration files)
+3. alternate command to get RAM information (free -m)(cat /proc/meminfo)
+4. command to get Storage Information (df -h)
+5. command to see running processors on linux system(ps -aux)
+6. command to create a folder inside a folder (mkdir -p folder1/folder2)
+7. command to append a data to a file which are present in folder1(cat >> folder1/folder2/aws) 
+8. command to copy the data from one file to another file (cp folder1/folder2/aws devops)
+9. command to rename a file (mv devops flm)
+10. diff between > & >> in cat command (> overwrite >> append)
